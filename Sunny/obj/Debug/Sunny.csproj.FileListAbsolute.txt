@@ -1,0 +1,8 @@
+F:\Project\Sunny\Sunny\bin\Debug\Sunny.exe
+F:\Project\Sunny\Sunny\bin\Debug\Sunny.pdb
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.csprojResolveAssemblyReference.cache
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.Properties.Resources.resources
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.csproj.GenerateResource.Cache
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.csproj.CoreCompileInputs.cache
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.exe
+F:\Project\Sunny\Sunny\obj\Debug\Sunny.pdb
